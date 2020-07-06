@@ -104,7 +104,7 @@ Once the service is deployed, take note of the load balancer URL output. Copy th
 
 What we did above was deploy a service that runs one task. With the current EC2 instances that are registered to the cluster, there is more than enough capacity to run our service.
 
-Navigate to the console, and select the container-demo cluster. Click the ECS Instances tab, and review the current capacity.
+Navigate to the console, and select the container-demo cluster. Click the ECS Instances tab, and review the current capacity.  It may take several minutes before the instances appear in the console.
 
 ![clustercapacity](/images/ec2_ecs_cluster.png)
 
